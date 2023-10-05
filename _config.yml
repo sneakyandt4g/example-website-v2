@@ -1,0 +1,7 @@
+# This is a configuration file for Jekyll.
+# You can set a custom theme!
+# Read https://pages.github.com/themes/ for all themes that you can use!
+
+theme: midnight
+
+# Use remote-theme:  for themes outside of GitHub's themes.
